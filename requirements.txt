@@ -1,0 +1,5 @@
+# Required libraries to run python script
+discord.py==2.3.2
+google-api-python-client==2.133.0
+python-dotenv==1.0.1
+youtube-dl==2021.12.17
